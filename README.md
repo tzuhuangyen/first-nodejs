@@ -16,8 +16,8 @@ Copy code
 3.Install dependencies (if any):
 bash
 Copy code
-# If you have dependencies, install them using your package manager
-# For example, using npm
+#＃ If you have dependencies, install them using your package manager
+#＃ For example, using npm
 ```npm install```
 
 4.Run the server:
